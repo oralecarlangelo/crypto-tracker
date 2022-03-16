@@ -1,4 +1,20 @@
+# Crypto Tracker Sample Project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+## Packages used:
+
+- [ReactJs](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [React Date Picker](https://reactdatepicker.com/)
+- [Tailwind Css](https://tailwindcss.com/)
+- [ChartJs](https://www.chartjs.org/)
+- [React-Chartjs-2](https://react-chartjs-2.js.org/)
+
+## API used:
+
+- [CoinGecko API](https://www.coingecko.com/en/api/documentation)
 
 ## Available Scripts
 
